@@ -1,5 +1,5 @@
 # first-repository
 Primer repo
 
-##mensaje
+## mensaje
 Mensaje de repo
